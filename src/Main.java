@@ -1,6 +1,5 @@
 import java.util.Random;
 
-
 class GeoLocation {
     //Du privatūs kintamieji double lat ir double lon koordinatėms saugoti.
     private double lat;
