@@ -83,8 +83,6 @@ class GeoLocation {
         System.out.println("From Vilnius to random neighbour: " + GeoLocation.distance(vilnius, nearVilnius));
     }
 
-    //!!!!! KONSOLĖ RODO "From Vilnius to Kaunas: 92.7" :( !!!!!
-
 }
 
 
